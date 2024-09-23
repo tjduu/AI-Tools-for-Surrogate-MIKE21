@@ -1,0 +1,7 @@
+torch
+scikit-learn
+numpy
+pandas
+matplotlib
+black
+pytest
